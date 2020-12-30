@@ -1,2 +1,2 @@
 # lets-study
-お勉強用リポジトリ
+javascriptのcanvasを使用して４色碁にチャレンジする
